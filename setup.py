@@ -675,6 +675,7 @@ extensions.append(pd_parser_ext)
 
 if __name__ == "__main__":
     print "hello world"
+    print "shankar"
     # Freeze to support parallel compilation when using spawn instead of fork
     multiprocessing.freeze_support()
     setup(
