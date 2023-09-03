@@ -3,6 +3,7 @@ codecov:
   notify:
     after_n_builds: 10
 comment: false
+vinay: test
 
 coverage:
   status:
